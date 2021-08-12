@@ -1,0 +1,20 @@
+html{
+    color:white;
+    background-image: url(mountain2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    /* background: linear-gradient(black,grey);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color:white; */
+}
+h1{
+    background: black;
+}
+p{
+    background:black;
+}
