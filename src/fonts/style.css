@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+p{
+    font-family: 'MonteCarlo', cursive;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline wavy aqua;
+    color: #00FF00;
+    background-color: #111111;
+}
+h1{
+    font-family: 'MonteCarlo',sans-serif, cursive;
+    color: #00FF00;
+}
