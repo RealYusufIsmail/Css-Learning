@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+    color:white;
+}
+h1{
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    border-left-style: solid;
+    /* border-left-width: 10px; */
+    border-right-style: solid;
+    border-color: gold;
+}
+
+p{
+    padding:5px;
+    /* border-style: solid; */
+    /* border-style: dashed;*/
+    /* border-style: dotted;*/
+    /* border-style: double;*/
+    /* border-style: ridge;*/
+    border-style: groove; /* I like this one */
+    /* border-style: inset;*/
+    /*border-style: outset;*/
+     border-width: 3px 5px 3px 5px;
+                  /*N   E  S   W*/
+    border-color: gold;
+    border-radius: 10px;
+}
