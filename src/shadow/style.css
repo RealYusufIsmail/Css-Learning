@@ -1,0 +1,23 @@
+h1{
+    border: 1px solid;
+    width: 200px;
+    padding: 25px;
+    background-color: black;
+    border-color: black;
+
+    text-shadow: 0px 0px 7px aqua, 0px -5px 5px red;
+    /*
+          horizontal (px)
+          vertical (px)
+          blur (px)
+          color (name, rgb and hex)
+     */
+
+    box-shadow: 11px 11px 10px #666666;
+    /*
+          horizontal (px)
+          vertical (px)
+          blur (px)
+          color (name, rgb and hex)
+     */
+}
